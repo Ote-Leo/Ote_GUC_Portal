@@ -1,5 +1,6 @@
 /**
  * Courses collection
+ * A course might related to multiple departments
  * A course has a number of instructors associated with it
  * A course has a number of teaching assistants associated with it
  * A course has a single of coordinator that belongs to the teaching assistants
