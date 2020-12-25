@@ -1,5 +1,6 @@
 /**
  * Departements Collection
+ * A Department might shared across multiple faculties
  * A Department is associated with a single faculty
  * A Department has a 'Head Of Department' (HOD), who belongs to it's faculty staff members
  * A Department has a number of course associated with it
