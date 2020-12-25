@@ -1,0 +1,30 @@
+{
+  "name": "ote_guc_portal",
+  "version": "1.0.0",
+  "description": "GUC staff member portal demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ote-Leo/Ote_GUC_Portal.git"
+  },
+  "author": "Ote Leo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ote-Leo/Ote_GUC_Portal/issues"
+  },
+  "homepage": "https://github.com/Ote-Leo/Ote_GUC_Portal#readme",
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.8"
+  }
+}

@@ -1,1 +1,1 @@
-# Ote_GUC_Portal
+# Ote GUC Portal
